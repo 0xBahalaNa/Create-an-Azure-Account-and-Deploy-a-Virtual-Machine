@@ -12,10 +12,13 @@ Microsoft Azure is a cloud computing platform with numerous products and service
 
 <h2>Configuration Steps</h2>
 
-- Step 1: Create Azure Account
-- Step 2: Azure portal and resource group
-- Step 3: Create a virtual machine
-- Step 4: Connect to virtual machine using Microsoft Remote Desktop on macOS
+Step 1: Create Azure Account
+
+Step 2: Azure portal and resource group
+
+Step 3: Create a virtual machine
+
+Step 4: Connect to virtual machine using Microsoft Remote Desktop on macOS
 
 <h3>Step 1: Create Azure Account</h3>
 First step is to create an Azure account. You can create an account with $200 of free credit for a month. 
