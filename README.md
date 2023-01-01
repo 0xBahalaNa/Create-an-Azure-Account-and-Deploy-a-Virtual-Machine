@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Us74xWW.png" height="40%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
 
-<h1>Microsoft Azure</h1>
+<h1>Create an Azure Account and Deploy a Virtual Machine</h1>
 Microsoft Azure is a cloud computing platform with numerous products and services. This guide will demonstrate how to create an account, utilize the portal, and create a virtual machine.
 
 <h2>Environments and Technologies Used</h2>
