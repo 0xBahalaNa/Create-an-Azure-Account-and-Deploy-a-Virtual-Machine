@@ -91,3 +91,7 @@ Once Microsoft Remote Desktop is downloaded, open the application. Click add PC.
 </p>
 
 Congratulations! You have created your first virtual machine within Azure. If you want to save your free $200 credits, make sure you delete ALL resource groups because most of Azure services are pay as you go (unless otherwise stated). Thank you!
+
+
+
+**REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB!**
